@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/python3
 
 def greetings(name: str) -> None:
     if not isinstance(name, str):

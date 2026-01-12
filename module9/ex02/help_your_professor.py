@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/python3
 
 
 def average(grades: dict[str, int]) -> float:

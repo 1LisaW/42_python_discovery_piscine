@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/python3
 
 def add_one(num: int) -> int:
     num += 1

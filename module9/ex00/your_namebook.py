@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/python3
 
 
 def array_of_names(dict_of_people: list[dict[str, str]]) -> list[str]:

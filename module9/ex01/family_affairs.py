@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/python3
 
 
 def find_the_redheads(family: dict) -> list:
